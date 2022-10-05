@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Keep Movin',
-  domain: 'nextjs-notion-starter-kit.moveitmove.it',
+  domain: 'Gotta Keep Movin',
   author: 'Landry Yoder',
 
   // open graph metadata (optional)
