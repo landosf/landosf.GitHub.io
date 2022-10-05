@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Keep Movin',
-  domain: 'Gotta Keep Movin',
+  domain: 'landosf.github.io',
   author: 'Landry Yoder',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Mountains and Moons',
 
   // social usernames (optional)
   twitter: '@landryyoder',
