@@ -10,7 +10,8 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Keep Movin',
-  domain: 'landosf.github.io',
+  domain: 'landosf.github.io/
+nextjs-notion-starter-kit',
   author: 'Landry Yoder',
 
   // open graph metadata (optional)
