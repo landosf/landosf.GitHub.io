@@ -14,10 +14,10 @@ export default siteConfig({
   author: 'Landry Yoder',
 
   // open graph metadata (optional)
-  description: 'Example The Extras',
+  description: 'The Extras',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  twitter: 'landryyoder',
   github: 'landosf',
   linkedin: 'landryyoder',
   // newsletter: '#', // optional newsletter URL
