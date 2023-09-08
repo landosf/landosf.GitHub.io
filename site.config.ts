@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'The Extras',
+  name: 'Reflections',
   domain: 'LandryYoder.com',
   author: 'Landry Yoder',
 
   // open graph metadata (optional)
-  description: 'The Extras',
+  description: 'My reflections across areas I love',
 
   // social usernames (optional)
   twitter: 'landryyoder',
